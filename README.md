@@ -5,7 +5,7 @@
 
 <h4 align="center">I’m looking to collaborate on innovative web development projects.</h4>
 
-<h4 align="center">- 💬 Ask me about Html, Css, Javascript, React, Typescript</h4>
+<h4 align="center">- 💬 Ask me about Html, Css, Javascript, React, Typescript.</h4>
 
 <h3 align="center">📫 You can reach me at <a href="mailto:maurilio.valenti@gmail.com">maurilio.valenti@gmail.com</a></h3>
 
