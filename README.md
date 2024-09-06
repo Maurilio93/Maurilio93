@@ -1,23 +1,22 @@
-<h1 align="center">Hi 👋, I'm Maurilio Valenti</h1>
-<h3 align="center">A Full-Stack Developer from Italy</h3>
+<h1 align="center">Ciao 👋, sono Maurilio Valenti</h1>
+<h3 align="center"> Full-Stack Developer </h3>
 
-<h4 align="center">- 🌱 I’m currently learning React, Typescript, SQL and Node.js</h4>
+<h4 align="center">- 🌱Attualmente mi sto specializzando in React, Javascript, Typescript, SQL e Node.js.</h4>
 
-<h4 align="center">I’m looking to collaborate on innovative web development projects.</h4>
+<h4 align="center">Sono interessato a contribuire a progetti innovativi nel campo dello sviluppo web.</h4>
 
-<h4 align="center">- 💬 Ask me about Html, Css, Javascript, React, Typescript.</h4>
+<h4 align="center">- 💬Chiedimi tutto quello che riguarda il mondo tech sono pronto a collaborare!</h4>
 
-<h3 align="center">📫 You can reach me at <a href="mailto:maurilio.valenti@gmail.com">maurilio.valenti@gmail.com</a></h3>
+<h3 align="center">📫 Puoi contattarmi a <a href="mailto:maurilio.valenti@gmail.com">maurilio.valenti@gmail.com</a></h3>
 
-
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connettiti con me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/maurilio-valenti-b50b3918b/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maurilio valenti" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Linguaggi e Strumenti:</h3>
 <p align="center"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -43,5 +42,5 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maurilio93&show_icons=true&locale=en&layout=compact" alt="sambrt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maurilio93&show_icons=true&locale=it&layout=compact" alt="maurilio93" />
 </p>
