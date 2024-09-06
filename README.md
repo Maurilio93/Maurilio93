@@ -1,5 +1,5 @@
 <h1 align="center">Ciao 👋, sono Maurilio Valenti</h1>
-<h3 align="center"> Full-Stack Developer </h3>
+<h3 align="center"> Junior Full-Stack Developer </h3>
 
 <h4 align="center">- 🌱Attualmente mi sto specializzando in React, Javascript, Typescript, SQL e Node.js.</h4>
 
